@@ -1,6 +1,5 @@
 # yo, Joe here
 
-Also known as Sutarasil Srisahakarnkij.  
 I have no idea how to use git and GitHub.  
 I'm not graduated nor have a degree in anything yet.  
 Currently studying at Debsirin school since middle school.  
